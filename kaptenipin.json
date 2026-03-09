@@ -16,5 +16,11 @@
         "key": "123",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "aa31d981badacbcb",
+        "key": "Ode11",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]

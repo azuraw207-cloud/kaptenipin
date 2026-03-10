@@ -22,5 +22,12 @@
         "key": "Ode11",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    
+{
+        "device_id": "dc2b831d0eca366b",
+        "key": "Syahril02",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]

@@ -41,5 +41,11 @@
         "key": "Hamnur04",
         "expirydate": "15-06-2036",
         "Allowoffline": true
-       }
+       },
+    {
+        "device_id": "feb3b001e6d88746",
+        "key": "Amirullah05",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
+    }
 ]

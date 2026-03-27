@@ -16,5 +16,11 @@
         "key": "1234",
         "expirydate": "15-06-2027",
         "Allowoffline": true
-    }
+    },
+        {
+        "device_id": "eff3955f7d08a646",
+        "key": "majid",
+        "expirydate": "15-06-2027",
+        "Allowoffline": true
+        }
 ]

@@ -53,5 +53,11 @@
         "key": "Murphy06",
         "expirydate": "15-06-2036",
         "Allowoffline": true
-    }
+    },
+      {
+        "device_id": "8c122c4b5ce97344",
+        "key": "adi07",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
+      }
 ]

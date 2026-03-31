@@ -59,5 +59,11 @@
         "key": "adi07",
         "expirydate": "15-06-2036",
         "Allowoffline": true
-      }
+      },
+    {
+        "device_id": "6fc54c8f573bdc67",
+        "key": "boim08",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
+    }
 ]

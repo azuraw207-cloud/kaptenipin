@@ -65,5 +65,11 @@
         "key": "boim08",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "d0c4b06492b5d68a",
+        "key": "jemmy09",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]

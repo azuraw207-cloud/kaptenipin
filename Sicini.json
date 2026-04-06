@@ -58,5 +58,11 @@
         "key": "caspianbreeze",
         "expirydate": "15-06-2037",
         "Allowoffline": true
+    },
+    {
+        "device_id": "6bf17c492c8ecb27",
+        "key": "Lukman123",
+        "expirydate": "15-06-2037",
+        "Allowoffline": true
     }
 ]

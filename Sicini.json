@@ -70,5 +70,11 @@
         "key": "hery",
         "expirydate": "15-06-2037",
         "Allowoffline": true
+    },
+    {
+        "device_id": "603edd161356a95f",
+        "key": "wasari2026",
+        "expirydate": "15-06-2037",
+        "Allowoffline": true
     }
 ]

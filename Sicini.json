@@ -73,13 +73,25 @@
     },
     {
         "device_id": "603edd161356a95f",
-        "key": "wasari2026",
+        "key": "wasari2026", 
         "expirydate": "15-06-2037",
         "Allowoffline": true
     },
     {
         "device_id": "9cb0c7dca1598180",
         "key": "ahmad79",
+        "expirydate": "15-06-2037",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ae7e4e9898dccf63",
+        "key": "muhidin86",
+        "expirydate": "15-06-2037",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "18c2c0cb0043a246",
+        "key": "adrian",
         "expirydate": "15-06-2037",
         "Allowoffline": true
     },

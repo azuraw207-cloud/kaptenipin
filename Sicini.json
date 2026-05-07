@@ -106,5 +106,11 @@
         "key": "Yanto1975",
         "expirydate": "15-06-2037",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f3b3040708d5d78a",
+        "key": "pramono114",
+        "expirydate": "15-06-2037",
+        "Allowoffline": true
     }
 ]

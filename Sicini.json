@@ -112,5 +112,11 @@
         "key": "pramono114",
         "expirydate": "15-06-2037",
         "Allowoffline": true
+    },
+    {
+        "device_id": "fd09f98fae391eb6",
+        "key": "Dicky72",
+        "expirydate": "15-06-2037",
+        "Allowoffline": true
     }
 ]

@@ -101,5 +101,11 @@
         "key": "suparman14",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "d45e7d068dcf318e",
+        "key": "agussalim15",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]

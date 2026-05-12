@@ -107,5 +107,11 @@
         "key": "agussalim15",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "bf62023b67ca0dc1",
+        "key": "enda16",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]

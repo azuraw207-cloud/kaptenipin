@@ -130,5 +130,11 @@
         "key": "lemeng119",
         "expirydate": "15-06-2037",
         "Allowoffline": true
+    },
+    {
+        "device_id": "8d87e35dbc32927f",
+        "key": "zulfan120",
+        "expirydate": "15-06-2037",
+        "Allowoffline": true
     }
 ]

@@ -125,5 +125,11 @@
         "key": "hasibuan18",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "c4bdc81309525f6c",
+        "key": "fredy19",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     } 
 ]

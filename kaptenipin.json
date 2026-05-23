@@ -137,5 +137,11 @@
         "key": "sinaga123",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "be2cab254562d1d1",
+        "key": "teguhsedino73",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     } 
 ]

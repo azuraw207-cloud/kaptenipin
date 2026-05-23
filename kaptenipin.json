@@ -131,5 +131,11 @@
         "key": "fredy19",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "16ac60bd1ee75ec0",
+        "key": "sinaga123",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     } 
 ]

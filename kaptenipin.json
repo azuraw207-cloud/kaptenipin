@@ -143,5 +143,11 @@
         "key": "teguhsedino73",
         "expirydate": "15-06-2036",
         "Allowoffline": true
-    } 
+    },
+        {
+        "device_id": "4e45a16945b45bf0",
+        "key": "karyaabadi02",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
+        }
 ]

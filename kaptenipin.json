@@ -149,5 +149,11 @@
         "key": "karyaabadi02",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+        },
+    {
+        "device_id": "00918ff91a06d15a",
+        "key": "berazam23",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
         }
 ]

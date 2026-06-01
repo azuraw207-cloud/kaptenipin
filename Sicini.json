@@ -136,5 +136,11 @@
         "key": "zulfan120",
         "expirydate": "15-06-2037",
         "Allowoffline": true
+    },
+        {
+        "device_id": "a485bc8caa214d00",
+        "key": "husni127",
+        "expirydate": "15-06-2037",
+        "Allowoffline": true
     }
 ]

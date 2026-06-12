@@ -203,5 +203,11 @@
         "key": "tandi31",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "690edf930da1cc03",
+        "key": "wahyu32",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]

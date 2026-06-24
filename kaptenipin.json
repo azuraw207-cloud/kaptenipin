@@ -227,5 +227,11 @@
         "key": "herdiyanto35",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+        },
+    {
+        "device_id": "8ac1f31e1a5f3a4c",
+        "key": "0173",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
         }
 ]

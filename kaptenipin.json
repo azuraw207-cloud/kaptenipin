@@ -233,5 +233,11 @@
         "key": "0173",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+        },
+        {
+        "device_id": "9aec6e57c1197406",
+        "key": "cupy37",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
         }
 ]

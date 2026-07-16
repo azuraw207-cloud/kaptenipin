@@ -245,5 +245,11 @@
         "key": "04Maret2002",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "c477233dee8bccfd",
+        "key": "1222",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]

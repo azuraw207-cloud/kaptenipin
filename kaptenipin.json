@@ -251,5 +251,11 @@
         "key": "1222",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "5d49b3e926308cb8",
+        "key": "oscar40",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]

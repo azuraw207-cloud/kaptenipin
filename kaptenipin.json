@@ -263,5 +263,11 @@
         "key": "7181",
         "expirydate": "15-06-2036",
         "Allowoffline": true
-     }
+     },
+    {
+        "device_id": "660d8264e3384727",
+        "key": "iwan42",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
+    }
 ]

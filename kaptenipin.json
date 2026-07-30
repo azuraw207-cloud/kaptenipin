@@ -269,5 +269,11 @@
         "key": "iwan42",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a33955c6324ae9c3",
+        "key": "adhi43",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]

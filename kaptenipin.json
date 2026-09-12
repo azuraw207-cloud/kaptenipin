@@ -300,5 +300,11 @@
         "key": "2577",
         "expirydate": "15-06-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "88a5bdd95a6900ad",
+        "key": "nawir46",
+        "expirydate": "15-06-2036",
+        "Allowoffline": true
     }
 ]

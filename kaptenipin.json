@@ -350,15 +350,13 @@
         "expirydate": "15-06-2036",
         "Allowoffline": true
       },
-    
       {
         "device_id": "0c5335b5e877fbfe",
         "key": "089",
         "expirydate": "15-06-2036",
         "Allowoffline": true
       },
-    
-      {
+     {
         "device_id": "e43d699080e4f26a",
         "key": "090",
         "expirydate": "15-06-2036",
